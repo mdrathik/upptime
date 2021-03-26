@@ -18,11 +18,11 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
   - name: TCP ping
-    url: 1.1.1.1
+    url: 8.8.8.8
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: http://mdrathik.github.io
+  cname: mdrathik.github.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
    baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
