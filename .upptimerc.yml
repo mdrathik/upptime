@@ -18,7 +18,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: mdrathik.github.io
+  cname: mdrathik.github.io/upptime
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   themeUrl: https://mdrathik.github.io/upptime/global.css
