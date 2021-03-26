@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 59,
-    "timeWeek": 59,
-    "timeMonth": 59,
-    "timeYear": 59,
+    "time": 63,
+    "timeDay": 63,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "time": 243,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 465,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 11,
-    "timeDay": 11,
-    "timeWeek": 11,
-    "timeMonth": 11,
-    "timeYear": 11,
+    "time": 12,
+    "timeDay": 12,
+    "timeWeek": 12,
+    "timeMonth": 12,
+    "timeYear": 12,
     "dailyMinutesDown": {}
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "name": "TCP ping",
-    "url": "43.246.200.105",
+    "url": "$CW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
     "status": "up",
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 543,
-    "timeWeek": 543,
-    "timeMonth": 543,
-    "timeYear": 543,
+    "time": 580,
+    "timeDay": 580,
+    "timeWeek": 580,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {}
   }
 ]
