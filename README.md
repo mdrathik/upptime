@@ -8,10 +8,6 @@
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/upptime/upptime/issues) as incident reports, [Actions](https://github.com/upptime/upptime/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
 
-<!--end: status pages-->
-
-[**Visit our status website →**](https://demo.upptime.js.org)
-
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
