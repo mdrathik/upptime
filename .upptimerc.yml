@@ -10,9 +10,9 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
   - name: CyberWay-Server
-    url: $CW
+    url: 43.246.200.105
   - name: AccessTel-Server
-    url: $AT
+    url: 175.29.179.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
