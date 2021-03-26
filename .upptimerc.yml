@@ -25,6 +25,7 @@ status-website:
   cname: mdrathik.github.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
+  themeUrl: https://mdrathik.github.io/upptime/global.css
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
