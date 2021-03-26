@@ -4,17 +4,12 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
   - name: CyberWay Server
     url: $CW
-  - name: TCP ping
-    url: 1.1.1.1
   - name: AccessTel Server
     url: 175.29.179.1
+  - name: TCP ping
+    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -23,13 +18,11 @@ status-website:
   baseUrl: /upptime
   themeUrl: https://mdrathik.github.io/upptime/global.css
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
+  name: আপটাইম
+  introTitle: সকল সার্ভার এর লিস্ট সমূহ
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: অবস্থা
       href: /upptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
