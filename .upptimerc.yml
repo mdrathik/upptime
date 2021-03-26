@@ -9,11 +9,11 @@ sites:
     url: https://www.google.com
   - name: Secret Site
     url: $SECRET_SITE
-  - name: CyberWay-Server
+  - name: CyberWay Server
     url: $CW
   - name: TCP ping
     url: 1.1.1.1
-  - name: TCP ping
+  - name: AccessTel Server
     url: 175.29.179.1
 
 status-website:
