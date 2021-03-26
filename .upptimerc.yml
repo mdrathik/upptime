@@ -7,7 +7,7 @@ sites:
   - name: CyberWay Server
     url: $CW
   - name: AccessTel Server
-    url: 175.29.179.1
+    url: $AT
   - name: TCP ping
     url: 1.1.1.1
 
