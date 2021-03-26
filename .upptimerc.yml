@@ -10,8 +10,10 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
   - name: CyberWay-Server
-    url: 43.246.200.105
-  - name: AccessTel-Server
+    url: $CW
+  - name: TCP ping
+    url: 1.1.1.1
+  - name: TCP ping
     url: 175.29.179.1
 
 status-website:
